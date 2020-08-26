@@ -14,7 +14,8 @@ const styles = StyleSheet.create({
         flex: 1,
         padding: 20,
         justifyContent: 'center',
-        backgroundColor: 'rgba(0, 0, 0, 0.6)',
+        // backgroundColor: 'rgba(0, 0, 0, 0.6)',
+        backgroundColor: '#000000',
         alignItems: 'flex-end'
     },
     displayValue: {
